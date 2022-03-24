@@ -1,0 +1,7 @@
+﻿  Lab1.cpp
+D:\6 semestr\Stuktury danych\Lab_1\Lab1\Lab1.cpp(151,74): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Lab1.vcxproj -> D:\6 semestr\Stuktury danych\Lab_1\Lab1\x64\Debug\Lab1.exe
